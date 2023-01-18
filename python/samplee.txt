@@ -1,0 +1,4 @@
+fn=open("samplee.txt",'r')
+s=fn.readline()
+print(s)
+print(fn.closed)

@@ -1,0 +1,5 @@
+1. Easy to Read.
+2. Free and Open-Source.
+3. Robust Standard Library. 
+4. Interpreted.
+5. Portable.
